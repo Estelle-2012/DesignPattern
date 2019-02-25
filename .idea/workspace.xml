@@ -2,10 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd79ef35-7d74-448c-8f7d-31414685820c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/test/dip/PythonCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/test/dip/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/CourseActualBulider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/CourseBulider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/CourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/JavaArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/JavaCoursefFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/JavaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/FEVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/FEVideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/JavaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/JavaVideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/PythonVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/PythonVideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/VideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/JavaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/PythonVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/VideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/dip/FECourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/dip/Geely.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/dip/ICourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/dip/JavaCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/dip/PythonCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/dip/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/ocp/ICourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/ocp/JavaCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/ocp/JavaDiscountCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/srp/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/srp/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/dip/Geely.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estelle/test/dip/Geely.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/dip/FECourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/dip/Geely.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/dip/ICourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/dip/JavaCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/dip/PythonCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/dip/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/ocp/ICourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/ocp/JavaCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/ocp/JavaDiscountCourse.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,151 +60,171 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ICourse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/ICourse.java">
+      <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Course.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/com.estelle.test.dip" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.estelle.test.dip">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.estelle.test.dip</OriginalElement>
-              <nodes>
-                <node x="207.0" y="101.0">com.estelle.test.dip.JavaCourse</node>
-                <node x="0.0" y="197.0">com.estelle.test.dip.Geely</node>
-                <node x="279.0" y="197.0">com.estelle.test.dip.Test</node>
-                <node x="0.0" y="101.0">com.estelle.test.dip.PythonCourse</node>
-                <node x="207.0" y="0.0">com.estelle.test.dip.ICourse</node>
-                <node x="414.0" y="101.0">com.estelle.test.dip.FECourse</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.estelle.test.dip.PythonCourse" target="com.estelle.test.dip.ICourse">
-                  <point x="0.0" y="-25.5" />
-                  <point x="93.5" y="76.0" />
-                  <point x="238.16666666666666" y="76.0" />
-                  <point x="-62.33333333333334" y="25.5" />
-                </edge>
-                <edge source="com.estelle.test.dip.FECourse" target="com.estelle.test.dip.ICourse">
-                  <point x="0.0" y="-25.5" />
-                  <point x="507.5" y="76.0" />
-                  <point x="362.83333333333337" y="76.0" />
-                  <point x="62.33333333333337" y="25.5" />
-                </edge>
-                <edge source="com.estelle.test.dip.JavaCourse" target="com.estelle.test.dip.ICourse">
-                  <point x="0.0" y="-25.5" />
-                  <point x="0.0" y="25.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-241.0" y="44.5" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Constructors</Category>
-                <Category>Fields</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PythonCourse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/PythonCourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="494">
+              <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding>
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#664#665#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#848#849#0" expanded="true" />
+                <element signature="e#883#884#0" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
+                <element signature="e#962#963#0" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#1048#1049#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/Test.java">
+      <file leaf-file-name="Course.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Course.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="1197">
+              <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+              <folding>
+                <element signature="e#2502#2503#0" expanded="true" />
+                <element signature="e#2549#2550#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaDiscountCourse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/JavaDiscountCourse.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="76">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ICourse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/ICourse.java">
+      <file leaf-file-name="CourseBulider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/CourseBulider.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Geely.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/Geely.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#96#97#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaCourse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/JavaCourse.java">
+      <file leaf-file-name="CourseActualBulider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/CourseActualBulider.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#653#654#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FECourse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/FECourse.java">
+      <file leaf-file-name="Coach.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Coach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaCourse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/JavaCourse.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+              <folding>
+                <element signature="e#10065#10066#0" expanded="true" />
+                <element signature="e#10148#10149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/com.estelle.builder" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.estelle.builder">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.estelle.builder</OriginalElement>
+              <nodes>
+                <node x="303.0" y="0.0">com.estelle.pattern.builder.v1.Course</node>
+                <node x="0.0" y="417.0">com.estelle.pattern.builder.v1.Coach</node>
+                <node x="0.0" y="211.0">com.estelle.pattern.builder.v1.CourseActualBulider</node>
+                <node x="0.0" y="0.0">com.estelle.pattern.builder.v1.CourseBulider</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.estelle.pattern.builder.v1.CourseActualBulider" target="com.estelle.pattern.builder.v1.CourseBulider">
+                  <point x="0.0" y="-80.5" />
+                  <point x="0.0" y="80.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-232.0" y="91.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -170,6 +235,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -190,6 +256,37 @@
         <option value="$PROJECT_DIR$/src/com/estelle/test/ocp/ICourse.java" />
         <option value="$PROJECT_DIR$/src/com/estelle/test/dip/PythonCourse.java" />
         <option value="$PROJECT_DIR$/src/com/estelle/test/dip/Geely.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/test/srp/Bird.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/test/srp/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/principle/srp/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/Video.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/JavaVideo.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/PythonVideo.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/VideoFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/JavaVideo.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/VideoFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/JavaVideoFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/PythonVideoFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/FEVideo.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/FEVideoFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/Article.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/Video.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/CourseFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/JavaVideo.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/JavaArticle.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/JavaCoursefFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/builder/CourseBulider.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/builder/CourseActualBulider.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/builder/Coach.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/builder/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/builder/Course.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/builder/v1/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/builder/v2/Course.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/builder/v2/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Course.java" />
       </list>
     </option>
   </component>
@@ -207,7 +304,9 @@
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="PackagesPane" proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -217,8 +316,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,6 +371,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -297,40 +395,79 @@
               <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
               <item name="com" type="1f31426a:PackageElementNode" />
               <item name="estelle" type="1f31426a:PackageElementNode" />
-              <item name="test" type="1f31426a:PackageElementNode" />
+              <item name="pattern" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
               <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
               <item name="com" type="1f31426a:PackageElementNode" />
               <item name="estelle" type="1f31426a:PackageElementNode" />
-              <item name="test" type="1f31426a:PackageElementNode" />
-              <item name="dip" type="1f31426a:PackageElementNode" />
+              <item name="pattern" type="1f31426a:PackageElementNode" />
+              <item name="builder" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
               <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
               <item name="com" type="1f31426a:PackageElementNode" />
               <item name="estelle" type="1f31426a:PackageElementNode" />
-              <item name="test" type="1f31426a:PackageElementNode" />
-              <item name="dip" type="1f31426a:PackageElementNode" />
-              <item name="Test" type="1a9f42e2:ClassTreeNode" />
+              <item name="pattern" type="1f31426a:PackageElementNode" />
+              <item name="builder" type="1f31426a:PackageElementNode" />
+              <item name="v1" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
               <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
               <item name="com" type="1f31426a:PackageElementNode" />
               <item name="estelle" type="1f31426a:PackageElementNode" />
-              <item name="test" type="1f31426a:PackageElementNode" />
-              <item name="ocp" type="1f31426a:PackageElementNode" />
+              <item name="pattern" type="1f31426a:PackageElementNode" />
+              <item name="builder" type="1f31426a:PackageElementNode" />
+              <item name="v2" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="estelle" type="1f31426a:PackageElementNode" />
+              <item name="pattern" type="1f31426a:PackageElementNode" />
+              <item name="factory" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="estelle" type="1f31426a:PackageElementNode" />
+              <item name="pattern" type="1f31426a:PackageElementNode" />
+              <item name="factory" type="1f31426a:PackageElementNode" />
+              <item name="abstractfactory" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="estelle" type="1f31426a:PackageElementNode" />
+              <item name="pattern" type="1f31426a:PackageElementNode" />
+              <item name="factory" type="1f31426a:PackageElementNode" />
+              <item name="factorymethod" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="estelle" type="1f31426a:PackageElementNode" />
+              <item name="pattern" type="1f31426a:PackageElementNode" />
+              <item name="factory" type="1f31426a:PackageElementNode" />
+              <item name="factorymethod" type="1f31426a:PackageElementNode" />
+              <item name="FEVideoFactory" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Connection&#9;PSI&#9;JAVA://java.sql.Connection&#10;URLSt&#9;PSI&#9;JAVA://java.net.URLStreamHandlerFactory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -342,8 +479,125 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.estelle.builder.v2" />
+      <recent name="com.estelle.pattern.factory.abstractfactory" />
+      <recent name="com.estelle.pattern.factory.factorymethod" />
+      <recent name="com.estelle.pattern.factory.simplefactory" />
       <recent name="com.estelle.test.dip" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -362,12 +616,12 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.estelle.test.dip.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.estelle.principle.dip.Test" />
       <module name="DesignPattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.estelle.test.dip.*" />
+          <option name="PATTERN" value="com.estelle.principle.dip.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -447,7 +701,8 @@
       <workItem from="1550737790945" duration="3741000" />
       <workItem from="1550742043635" duration="174000" />
       <workItem from="1550742220420" duration="391000" />
-      <workItem from="1550742714649" duration="1392000" />
+      <workItem from="1550742714649" duration="5231000" />
+      <workItem from="1551065839459" duration="8728000" />
     </task>
     <task id="LOCAL-00001" summary="依赖倒置原则">
       <created>1550742502875</created>
@@ -456,44 +711,50 @@
       <option name="project" value="LOCAL" />
       <updated>1550742502875</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="依赖倒置原则">
+      <created>1550806086852</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550806086852</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5726000" />
+    <option name="totallyTimeSpent" value="18293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3296582" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32795697" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32795697" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32903227" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="right" id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49892473" visible="true" weight="0.26495728" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32967034" />
+      <window_info x="623" y="71" width="434" height="930" id="Structure" order="0" sideWeight="0.50107527" type="WINDOWED" weight="0.26495728" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,391 +768,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="依赖倒置原则" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/JavaDiscountCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/Geely.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/FECourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/JavaDiscountCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/FECourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.estelle.test.ocp">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.estelle.test.ocp</OriginalElement>
-          <nodes>
-            <node x="27.5" y="145.0">com.estelle.test.ocp.JavaCourse</node>
-            <node x="109.5" y="0.0">com.estelle.test.ocp.ICourse</node>
-            <node x="0.0" y="313.0">com.estelle.test.ocp.JavaDiscountCourse</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.estelle.test.ocp.JavaDiscountCourse" target="com.estelle.test.ocp.JavaCourse">
-              <point x="0.0" y="-37.0" />
-              <point x="0.0" y="59.0" />
-            </edge>
-            <edge source="com.estelle.test.ocp.JavaCourse" target="com.estelle.test.ocp.ICourse">
-              <point x="0.0" y="-59.0" />
-              <point x="0.0" y="47.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="174.0" y="194.0" />
-          <SelectedNodes>
-            <node>com.estelle.test.ocp.JavaCourse</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/Geely.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/JavaDiscountCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/FECourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.estelle.test.ocp">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.estelle.test.ocp</OriginalElement>
-          <nodes>
-            <node x="27.5" y="145.0">com.estelle.test.ocp.JavaCourse</node>
-            <node x="109.5" y="0.0">com.estelle.test.ocp.ICourse</node>
-            <node x="0.0" y="313.0">com.estelle.test.ocp.JavaDiscountCourse</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.estelle.test.ocp.JavaDiscountCourse" target="com.estelle.test.ocp.JavaCourse">
-              <point x="0.0" y="-37.0" />
-              <point x="0.0" y="59.0" />
-            </edge>
-            <edge source="com.estelle.test.ocp.JavaCourse" target="com.estelle.test.ocp.ICourse">
-              <point x="0.0" y="-59.0" />
-              <point x="0.0" y="47.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="174.0" y="194.0" />
-          <SelectedNodes>
-            <node>com.estelle.test.ocp.JavaCourse</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/Geely.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/JavaDiscountCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.estelle.test.ocp">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.estelle.test.ocp</OriginalElement>
-          <nodes>
-            <node x="27.5" y="145.0">com.estelle.test.ocp.JavaCourse</node>
-            <node x="109.5" y="0.0">com.estelle.test.ocp.ICourse</node>
-            <node x="0.0" y="313.0">com.estelle.test.ocp.JavaDiscountCourse</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.estelle.test.ocp.JavaDiscountCourse" target="com.estelle.test.ocp.JavaCourse">
-              <point x="0.0" y="-37.0" />
-              <point x="0.0" y="59.0" />
-            </edge>
-            <edge source="com.estelle.test.ocp.JavaCourse" target="com.estelle.test.ocp.ICourse">
-              <point x="0.0" y="-59.0" />
-              <point x="0.0" y="47.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="174.0" y="194.0" />
-          <SelectedNodes>
-            <node>com.estelle.test.ocp.JavaCourse</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/FECourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/ocp/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.estelle.test.dip">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.estelle.test.dip</OriginalElement>
-          <nodes>
-            <node x="207.0" y="101.0">com.estelle.test.dip.JavaCourse</node>
-            <node x="0.0" y="197.0">com.estelle.test.dip.Geely</node>
-            <node x="279.0" y="197.0">com.estelle.test.dip.Test</node>
-            <node x="0.0" y="101.0">com.estelle.test.dip.PythonCourse</node>
-            <node x="207.0" y="0.0">com.estelle.test.dip.ICourse</node>
-            <node x="414.0" y="101.0">com.estelle.test.dip.FECourse</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.estelle.test.dip.PythonCourse" target="com.estelle.test.dip.ICourse">
-              <point x="0.0" y="-25.5" />
-              <point x="93.5" y="76.0" />
-              <point x="238.16666666666666" y="76.0" />
-              <point x="-62.33333333333334" y="25.5" />
-            </edge>
-            <edge source="com.estelle.test.dip.FECourse" target="com.estelle.test.dip.ICourse">
-              <point x="0.0" y="-25.5" />
-              <point x="507.5" y="76.0" />
-              <point x="362.83333333333337" y="76.0" />
-              <point x="62.33333333333337" y="25.5" />
-            </edge>
-            <edge source="com.estelle.test.dip.JavaCourse" target="com.estelle.test.dip.ICourse">
-              <point x="0.0" y="-25.5" />
-              <point x="0.0" y="25.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-241.0" y="44.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Constructors</Category>
-            <Category>Fields</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/PythonCourse.java">
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/dip/PythonCourse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
@@ -902,7 +779,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/Geely.java">
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/dip/Geely.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
@@ -915,10 +792,682 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/test/dip/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory.java" />
+    <entry file="uml://JAVA/com.estelle.pattern.factory.simplefactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.estelle.pattern.factory.simplefactory</OriginalElement>
+          <nodes>
+            <node x="" y="">com.estelle.pattern.factory.simplefactory.VideoFactory</node>
+            <node x="" y="">com.estelle.pattern.factory.simplefactory.PythonVideo</node>
+            <node x="" y="">com.estelle.pattern.factory.simplefactory.Video</node>
+            <node x="" y="">com.estelle.pattern.factory.simplefactory.Test</node>
+            <node x="" y="">com.estelle.pattern.factory.simplefactory.JavaVideo</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="199.0" y="177.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.estelle.pattern.factory.simplefactory.VideoFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.estelle.pattern.factory.simplefactory.VideoFactory</OriginalElement>
+          <nodes>
+            <node x="" y="">com.estelle.pattern.factory.simplefactory.VideoFactory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="65.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/PythonVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/dip/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4864">
+          <caret line="312" column="22" selection-start-line="312" selection-start-column="22" selection-end-line="312" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/JavaVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/srp/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/srp/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/ocp/ICourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/ocp/JavaCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/VideoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/PythonVideo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/JavaVideoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/PythonVideoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/VideoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/JavaVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/FEVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/FEVideoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.estelle.pattern.factory.factorymethod">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.estelle.pattern.factory.factorymethod</OriginalElement>
+          <nodes>
+            <node x="131.0" y="232.0">com.estelle.pattern.factory.factorymethod.FEVideo</node>
+            <node x="164.0" y="79.0">com.estelle.pattern.factory.factorymethod.PythonVideoFactory</node>
+            <node x="138.5" y="153.0">com.estelle.pattern.factory.factorymethod.Video</node>
+            <node x="186.0" y="0.0">com.estelle.pattern.factory.factorymethod.VideoFactory</node>
+            <node x="357.0" y="79.0">com.estelle.pattern.factory.factorymethod.JavaVideoFactory</node>
+            <node x="249.0" y="232.0">com.estelle.pattern.factory.factorymethod.PythonVideo</node>
+            <node x="421.0" y="153.0">com.estelle.pattern.factory.factorymethod.Test</node>
+            <node x="0.0" y="79.0">com.estelle.pattern.factory.factorymethod.FEVideoFactory</node>
+            <node x="0.0" y="232.0">com.estelle.pattern.factory.factorymethod.JavaVideo</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.estelle.pattern.factory.factorymethod.JavaVideo" target="com.estelle.pattern.factory.factorymethod.Video">
+              <point x="0.0" y="-14.5" />
+              <point x="55.5" y="207.0" />
+              <point x="152.33333333333334" y="207.0" />
+              <point x="-27.666666666666657" y="14.5" />
+            </edge>
+            <edge source="com.estelle.pattern.factory.factorymethod.FEVideo" target="com.estelle.pattern.factory.factorymethod.Video">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.estelle.pattern.factory.factorymethod.JavaVideoFactory" target="com.estelle.pattern.factory.factorymethod.VideoFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="435.5" y="54.0" />
+              <point x="293.5" y="54.0" />
+              <point x="43.0" y="14.5" />
+            </edge>
+            <edge source="com.estelle.pattern.factory.factorymethod.PythonVideoFactory" target="com.estelle.pattern.factory.factorymethod.VideoFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.estelle.pattern.factory.factorymethod.FEVideoFactory" target="com.estelle.pattern.factory.factorymethod.VideoFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="72.0" y="54.0" />
+              <point x="207.5" y="54.0" />
+              <point x="-43.0" y="14.5" />
+            </edge>
+            <edge source="com.estelle.pattern.factory.factorymethod.PythonVideo" target="com.estelle.pattern.factory.factorymethod.Video">
+              <point x="0.0" y="-14.5" />
+              <point x="312.5" y="207.0" />
+              <point x="207.66666666666669" y="207.0" />
+              <point x="27.666666666666686" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-105.0" y="-68.5" />
+          <SelectedNodes>
+            <node>com.estelle.pattern.factory.factorymethod.Test</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="105" column="14" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.ArrayList">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.ArrayList</OriginalElement>
+          <nodes>
+            <node x="0.0" y="304.5">java.lang.Cloneable</node>
+            <node x="488.46250000000003" y="79.0">java.util.Collection</node>
+            <node x="426.0" y="282.0">java.util.AbstractList</node>
+            <node x="496.46250000000003" y="0.0">java.lang.Iterable</node>
+            <node x="290.0" y="304.5">java.io.Serializable</node>
+            <node x="150.5" y="406.0">java.util.ArrayList</node>
+            <node x="128.0" y="304.5">java.util.RandomAccess</node>
+            <node x="585.25" y="180.5">java.util.List</node>
+            <node x="365.25" y="158.0">java.util.AbstractCollection</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.ArrayList" target="java.lang.Cloneable">
+              <point x="-158.0" y="-125.0" />
+              <point x="190.0" y="386.0" />
+              <point x="54.0" y="386.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.io.Serializable">
+              <point x="0.0" y="-125.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+              <point x="-39.25" y="-37.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.RandomAccess">
+              <point x="-79.0" y="-125.0" />
+              <point x="269.0" y="386.0" />
+              <point x="199.0" y="386.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.List" target="java.util.Collection">
+              <point x="0.0" y="-14.5" />
+              <point x="620.25" y="133.0" />
+              <point x="570.2125000000001" y="133.0" />
+              <point x="27.25" y="14.5" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.List">
+              <point x="39.25" y="-37.0" />
+              <point x="543.75" y="257.0" />
+              <point x="602.75" y="257.0" />
+              <point x="-17.5" y="14.5" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.List">
+              <point x="158.0" y="-125.0" />
+              <point x="506.0" y="386.0" />
+              <point x="637.75" y="386.0" />
+              <point x="17.5" y="14.5" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.AbstractList">
+              <point x="79.0" y="-125.0" />
+              <point x="427.0" y="376.0" />
+              <point x="504.5" y="376.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="java.util.AbstractCollection" target="java.util.Collection">
+              <point x="0.0" y="-37.0" />
+              <point x="465.25" y="133.0" />
+              <point x="515.7125000000001" y="133.0" />
+              <point x="-27.25" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.1577252386291645" x="3.303073295852471" y="167.30307329585247" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/net/URLStreamHandlerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="46" column="69" lean-forward="true" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/JavaVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/JavaArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.estelle.pattern.factory.abstractfactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.estelle.pattern.factory.abstractfactory</OriginalElement>
+          <nodes>
+            <node x="28.11041666666665" y="122.0">com.estelle.pattern.factory.abstractfactory.Article</node>
+            <node x="256.11041666666665" y="122.0">com.estelle.pattern.factory.abstractfactory.Video</node>
+            <node x="124.23541666666665" y="280.0">com.estelle.pattern.factory.abstractfactory.JavaCoursefFactory</node>
+            <node x="8.5" y="201.0">com.estelle.pattern.factory.abstractfactory.JavaArticle</node>
+            <node x="143.49999999999997" y="201.0">com.estelle.pattern.factory.abstractfactory.CourseFactory</node>
+            <node x="302.5" y="201.0">com.estelle.pattern.factory.abstractfactory.JavaVideo</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.estelle.pattern.factory.abstractfactory.JavaCoursefFactory" target="com.estelle.pattern.factory.abstractfactory.JavaArticle">
+              <point x="-34.19999999999999" y="-14.5" />
+              <point x="175.53541666666666" y="250.0" />
+              <point x="66.0" y="250.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.estelle.pattern.factory.abstractfactory.JavaCoursefFactory" target="com.estelle.pattern.factory.abstractfactory.CourseFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="209.73541666666665" y="260.0" />
+              <point x="212.49999999999997" y="260.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.estelle.pattern.factory.abstractfactory.JavaCoursefFactory" target="com.estelle.pattern.factory.abstractfactory.JavaVideo">
+              <point x="68.39999999999998" y="-14.5" />
+              <point x="278.13541666666663" y="260.0" />
+              <point x="358.0" y="260.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.estelle.pattern.factory.abstractfactory.JavaVideo" target="com.estelle.pattern.factory.abstractfactory.Video">
+              <point x="0.0" y="-14.5" />
+              <point x="358.0" y="176.0" />
+              <point x="325.27708333333334" y="176.0" />
+              <point x="27.66666666666667" y="14.5" />
+            </edge>
+            <edge source="com.estelle.pattern.factory.abstractfactory.JavaCoursefFactory" target="com.estelle.pattern.factory.abstractfactory.Video">
+              <point x="34.19999999999999" y="-14.5" />
+              <point x="243.93541666666664" y="250.0" />
+              <point x="292.0" y="250.0" />
+              <point x="292.0" y="176.0" />
+              <point x="297.61041666666665" y="176.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.estelle.pattern.factory.abstractfactory.CourseFactory" target="com.estelle.pattern.factory.abstractfactory.Article">
+              <point x="-34.5" y="-14.5" />
+              <point x="177.99999999999997" y="176.0" />
+              <point x="100.61041666666665" y="176.0" />
+              <point x="29.0" y="14.5" />
+            </edge>
+            <edge source="com.estelle.pattern.factory.abstractfactory.JavaArticle" target="com.estelle.pattern.factory.abstractfactory.Article">
+              <point x="0.0" y="-14.5" />
+              <point x="66.0" y="176.0" />
+              <point x="71.61041666666665" y="176.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.estelle.pattern.factory.abstractfactory.JavaCoursefFactory" target="com.estelle.pattern.factory.abstractfactory.Article">
+              <point x="-68.4" y="-14.5" />
+              <point x="141.33541666666665" y="260.0" />
+              <point x="-2.0" y="260.0" />
+              <point x="-2.0" y="176.0" />
+              <point x="42.61041666666665" y="176.0" />
+              <point x="-29.0" y="14.5" />
+            </edge>
+            <edge source="com.estelle.pattern.factory.abstractfactory.CourseFactory" target="com.estelle.pattern.factory.abstractfactory.Video">
+              <point x="34.5" y="-14.5" />
+              <point x="246.99999999999997" y="176.0" />
+              <point x="269.94374999999997" y="176.0" />
+              <point x="-27.66666666666667" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-226.5" y="-57.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/JavaCoursefFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/CourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="169" column="7" lean-forward="true" selection-start-line="169" selection-start-column="7" selection-end-line="169" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/builder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.estelle.builder">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.estelle.builder</OriginalElement>
+          <nodes>
+            <node x="303.0" y="0.0">com.estelle.pattern.builder.v1.Course</node>
+            <node x="0.0" y="417.0">com.estelle.pattern.builder.v1.Coach</node>
+            <node x="0.0" y="211.0">com.estelle.pattern.builder.v1.CourseActualBulider</node>
+            <node x="0.0" y="0.0">com.estelle.pattern.builder.v1.CourseBulider</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.estelle.pattern.builder.v1.CourseActualBulider" target="com.estelle.pattern.builder.v1.CourseBulider">
+              <point x="0.0" y="-80.5" />
+              <point x="0.0" y="80.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-232.0" y="91.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Coach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/CourseActualBulider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/CourseBulider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.estelle.builder.v2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.estelle.builder.v2</OriginalElement>
+          <nodes>
+            <node x="355.0" y="0.0">com.estelle.builder.v2.Test</node>
+            <node x="40.0" y="-255.0">com.estelle.builder.v2.Course</node>
+            <node x="-13.0" y="20.0">com.estelle.builder.v2.Course.CouseBuilder</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.estelle.builder.v2.Course.CouseBuilder" target="com.estelle.builder.v2.Course">
+              <point x="0.0" y="-80.5" />
+              <point x="0.0" y="81.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-316.0" y="-136.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+          <folding>
+            <element signature="e#2502#2503#0" expanded="true" />
+            <element signature="e#2549#2550#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

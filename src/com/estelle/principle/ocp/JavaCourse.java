@@ -1,4 +1,4 @@
-package com.estelle.test.ocp;
+package com.estelle.principle.ocp;
 
 public class JavaCourse implements ICourse {
 

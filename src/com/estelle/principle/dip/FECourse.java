@@ -1,4 +1,4 @@
-package com.estelle.test.dip;
+package com.estelle.principle.dip;
 
 public class FECourse implements ICourse {
 

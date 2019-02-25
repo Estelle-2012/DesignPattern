@@ -1,4 +1,4 @@
-package com.estelle.test.ocp;
+package com.estelle.principle.ocp;
 
 public interface ICourse {
     Integer getId();
