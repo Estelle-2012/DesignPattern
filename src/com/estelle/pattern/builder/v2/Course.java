@@ -1,13 +1,13 @@
 package com.estelle.pattern.builder.v2;
 
 public class Course {
-    String courseName;
-    String coursePPT;
-    String courseVideo;
-    String courseArticle;
-    String courseQA;
+    private String courseName;
+    private String coursePPT;
+    private String courseVideo;
+    private String courseArticle;
+    private String courseQA;
 
-    public Course(CouseBuilder couseBuilder) {
+    private Course(CouseBuilder couseBuilder) {
         this.courseName = couseBuilder.courseName;
         this.coursePPT = couseBuilder.coursePPT;
         this.courseVideo = couseBuilder.courseVideo;

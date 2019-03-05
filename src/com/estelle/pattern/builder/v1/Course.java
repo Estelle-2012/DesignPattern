@@ -1,11 +1,11 @@
 package com.estelle.pattern.builder.v1;
 
 public class Course {
-    String courseName;
-    String coursePPT;
-    String courseVedio;
-    String courseArticle;
-    String courseQA;
+    private String courseName;
+    private String coursePPT;
+    private String courseVedio;
+    private String courseArticle;
+    private String courseQA;
 
     public String getCourseName() {
         return courseName;

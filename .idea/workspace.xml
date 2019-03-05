@@ -2,55 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd79ef35-7d74-448c-8f7d-31414685820c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/CourseActualBulider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/CourseBulider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/CourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/JavaArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/JavaCoursefFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/FEVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/FEVideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/JavaVideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/PythonVideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/VideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/VideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/dip/FECourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/dip/Geely.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/dip/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/dip/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/dip/PythonCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/dip/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/ocp/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/ocp/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/ocp/JavaDiscountCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/srp/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/principle/srp/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/HungrySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazyDoubleCheckSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/StaticInnerClassSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/dip/FECourse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/dip/Geely.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/dip/ICourse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/dip/JavaCourse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/dip/PythonCourse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/dip/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/ocp/ICourse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/ocp/JavaCourse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/estelle/test/ocp/JavaDiscountCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Course.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,48 +36,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Course.java">
+      <file leaf-file-name="LazySingleton.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazySingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="342">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LazyDoubleCheckSingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazyDoubleCheckSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaticInnerClassSingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/StaticInnerClassSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
               <folding>
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#704#705#0" expanded="true" />
-                <element signature="e#740#741#0" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#848#849#0" expanded="true" />
-                <element signature="e#883#884#0" expanded="true" />
-                <element signature="e#914#915#0" expanded="true" />
-                <element signature="e#962#963#0" expanded="true" />
-                <element signature="e#1002#1003#0" expanded="true" />
-                <element signature="e#1048#1049#0" expanded="true" />
-                <element signature="e#1093#1094#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Course.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HungrySingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/HungrySingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectInputStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/io/ObjectInputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="411" column="24" selection-start-line="411" selection-start-column="24" selection-end-line="411" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileInputStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Course.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1197">
-              <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
-              <folding>
-                <element signature="e#2502#2503#0" expanded="true" />
-                <element signature="e#2549#2550#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -127,104 +132,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CourseBulider.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/CourseBulider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CourseActualBulider.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/CourseActualBulider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#543#544#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Coach.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Coach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-              <folding>
-                <element signature="e#10065#10066#0" expanded="true" />
-                <element signature="e#10148#10149#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/com.estelle.builder" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.estelle.builder">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.estelle.builder</OriginalElement>
-              <nodes>
-                <node x="303.0" y="0.0">com.estelle.pattern.builder.v1.Course</node>
-                <node x="0.0" y="417.0">com.estelle.pattern.builder.v1.Coach</node>
-                <node x="0.0" y="211.0">com.estelle.pattern.builder.v1.CourseActualBulider</node>
-                <node x="0.0" y="0.0">com.estelle.pattern.builder.v1.CourseBulider</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.estelle.pattern.builder.v1.CourseActualBulider" target="com.estelle.pattern.builder.v1.CourseBulider">
-                  <point x="0.0" y="-80.5" />
-                  <point x="0.0" y="80.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-232.0" y="91.0" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -239,6 +146,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>obj</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -286,7 +198,14 @@
         <option value="$PROJECT_DIR$/src/com/estelle/builder/v1/Test.java" />
         <option value="$PROJECT_DIR$/src/com/estelle/builder/v2/Course.java" />
         <option value="$PROJECT_DIR$/src/com/estelle/builder/v2/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Course.java" />
         <option value="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Course.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/singleton/T.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazyDoubleCheckSingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/singleton/StaticInnerClassSingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/singleton/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/singleton/HungrySingleton.java" />
       </list>
     </option>
   </component>
@@ -295,6 +214,12 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -316,6 +241,51 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="estelle" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="estelle" type="1f31426a:PackageElementNode" />
+              <item name="pattern" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="estelle" type="1f31426a:PackageElementNode" />
+              <item name="pattern" type="1f31426a:PackageElementNode" />
+              <item name="singleton" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="estelle" type="1f31426a:PackageElementNode" />
+              <item name="principle" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -372,98 +342,6 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-              <item name="estelle" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-              <item name="estelle" type="1f31426a:PackageElementNode" />
-              <item name="pattern" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-              <item name="estelle" type="1f31426a:PackageElementNode" />
-              <item name="pattern" type="1f31426a:PackageElementNode" />
-              <item name="builder" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-              <item name="estelle" type="1f31426a:PackageElementNode" />
-              <item name="pattern" type="1f31426a:PackageElementNode" />
-              <item name="builder" type="1f31426a:PackageElementNode" />
-              <item name="v1" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-              <item name="estelle" type="1f31426a:PackageElementNode" />
-              <item name="pattern" type="1f31426a:PackageElementNode" />
-              <item name="builder" type="1f31426a:PackageElementNode" />
-              <item name="v2" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-              <item name="estelle" type="1f31426a:PackageElementNode" />
-              <item name="pattern" type="1f31426a:PackageElementNode" />
-              <item name="factory" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-              <item name="estelle" type="1f31426a:PackageElementNode" />
-              <item name="pattern" type="1f31426a:PackageElementNode" />
-              <item name="factory" type="1f31426a:PackageElementNode" />
-              <item name="abstractfactory" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-              <item name="estelle" type="1f31426a:PackageElementNode" />
-              <item name="pattern" type="1f31426a:PackageElementNode" />
-              <item name="factory" type="1f31426a:PackageElementNode" />
-              <item name="factorymethod" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-              <item name="estelle" type="1f31426a:PackageElementNode" />
-              <item name="pattern" type="1f31426a:PackageElementNode" />
-              <item name="factory" type="1f31426a:PackageElementNode" />
-              <item name="factorymethod" type="1f31426a:PackageElementNode" />
-              <item name="FEVideoFactory" type="1a9f42e2:ClassTreeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -475,7 +353,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -488,116 +366,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -702,7 +470,8 @@
       <workItem from="1550742043635" duration="174000" />
       <workItem from="1550742220420" duration="391000" />
       <workItem from="1550742714649" duration="5231000" />
-      <workItem from="1551065839459" duration="8728000" />
+      <workItem from="1551065839459" duration="10092000" />
+      <workItem from="1551668057995" duration="7951000" />
     </task>
     <task id="LOCAL-00001" summary="依赖倒置原则">
       <created>1550742502875</created>
@@ -718,11 +487,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550806086852</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="工厂模式+建造者模式">
+      <created>1551084708342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551084708342</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18293000" />
+    <option name="totallyTimeSpent" value="27608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -733,26 +509,26 @@
       <window_info id="Image Layers" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3296582" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32967034" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32795697" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32903227" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="right" id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49892473" visible="true" weight="0.26495728" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49892473" visible="true" weight="0.26800978" />
       <window_info anchor="right" id="Database" order="5" weight="0.32967034" />
-      <window_info x="623" y="71" width="434" height="930" id="Structure" order="0" sideWeight="0.50107527" type="WINDOWED" weight="0.26495728" />
+      <window_info x="623" y="71" width="434" height="930" id="Structure" order="0" sideWeight="0.50107527" side_tool="true" type="WINDOWED" weight="0.26495728" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" />
     </layout>
@@ -765,101 +541,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="依赖倒置原则" />
-    <option name="LAST_COMMIT_MESSAGE" value="依赖倒置原则" />
+    <MESSAGE value="工厂模式+建造者模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="工厂模式+建造者模式" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazySingleton.java</url>
+          <line>18</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/dip/PythonCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/dip/Geely.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory.java" />
-    <entry file="uml://JAVA/com.estelle.pattern.factory.simplefactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.estelle.pattern.factory.simplefactory</OriginalElement>
-          <nodes>
-            <node x="" y="">com.estelle.pattern.factory.simplefactory.VideoFactory</node>
-            <node x="" y="">com.estelle.pattern.factory.simplefactory.PythonVideo</node>
-            <node x="" y="">com.estelle.pattern.factory.simplefactory.Video</node>
-            <node x="" y="">com.estelle.pattern.factory.simplefactory.Test</node>
-            <node x="" y="">com.estelle.pattern.factory.simplefactory.JavaVideo</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="199.0" y="177.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.estelle.pattern.factory.simplefactory.VideoFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.estelle.pattern.factory.simplefactory.VideoFactory</OriginalElement>
-          <nodes>
-            <node x="" y="">com.estelle.pattern.factory.simplefactory.VideoFactory</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="65.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/PythonVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/Video.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/dip/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/Calendar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4864">
@@ -916,9 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/PythonVideo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/Video.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -930,10 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -941,10 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1027,7 +713,7 @@
               <point x="27.666666666666686" y="14.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-105.0" y="-68.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-105.0" y="-68.0" />
           <SelectedNodes>
             <node>com.estelle.pattern.factory.factorymethod.Test</node>
           </SelectedNodes>
@@ -1082,18 +768,14 @@
               <point x="54.0" y="386.0" />
               <point x="0.0" y="14.5" />
             </edge>
-            <edge source="java.util.ArrayList" target="java.io.Serializable">
-              <point x="0.0" y="-125.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
-              <point x="-39.25" y="-37.0" />
-              <point x="0.0" y="37.0" />
-            </edge>
             <edge source="java.util.ArrayList" target="java.util.RandomAccess">
               <point x="-79.0" y="-125.0" />
               <point x="269.0" y="386.0" />
               <point x="199.0" y="386.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.io.Serializable">
+              <point x="0.0" y="-125.0" />
               <point x="0.0" y="14.5" />
             </edge>
             <edge source="java.util.List" target="java.util.Collection">
@@ -1111,6 +793,10 @@
               <point x="543.75" y="257.0" />
               <point x="602.75" y="257.0" />
               <point x="-17.5" y="14.5" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+              <point x="-39.25" y="-37.0" />
+              <point x="0.0" y="37.0" />
             </edge>
             <edge source="java.util.ArrayList" target="java.util.List">
               <point x="158.0" y="-125.0" />
@@ -1131,7 +817,7 @@
               <point x="-27.25" y="14.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.1577252386291645" x="3.303073295852471" y="167.30307329585247" />
+          <settings layout="Hierarchic Group" zoom="1.1577252386291645" x="3.0" y="167.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -1258,7 +944,7 @@
               <point x="-27.66666666666667" y="14.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-226.5" y="-57.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-226.0" y="-57.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -1270,12 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1293,13 +973,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/builder.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/builder.kt" />
     <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/abstractfactory/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1338,7 +1012,7 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="3971">
           <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
           <folding>
             <element signature="e#10065#10066#0" expanded="true" />
@@ -1351,10 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1362,20 +1032,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1429,45 +1085,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Course.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        <state relative-caret-position="589">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
           <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
-            <element signature="e#914#915#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
-            <element signature="e#1048#1049#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Course.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+        <state relative-caret-position="294">
+          <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
-            <element signature="e#2502#2503#0" expanded="true" />
-            <element signature="e#2549#2550#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazyDoubleCheckSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/StaticInnerClassSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <folding>
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="411" column="24" selection-start-line="411" selection-start-column="24" selection-end-line="411" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/HungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
         </state>
       </provider>
     </entry>
