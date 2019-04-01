@@ -6,7 +6,7 @@ import java.io.Serializable;
  * 饿汉式单例
  * 类加载时就完成初始化
  */
-public class HungrySingleton implements Serializable {
+public class HungrySingleton implements Serializable, Cloneable {
     private final static HungrySingleton hungrySingleton;
 
     static {
@@ -28,5 +28,14 @@ public class HungrySingleton implements Serializable {
 
     private Object readResolve() {
         return hungrySingleton;
+    }
+
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        /**
+         * 为了防止克隆破坏调用getInstance();
+         */
+        return getInstance();
     }
 }

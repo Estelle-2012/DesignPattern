@@ -2,15 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd79ef35-7d74-448c-8f7d-31414685820c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/HungrySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazyDoubleCheckSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/StaticInnerClassSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/abstractprototype/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/abstractprototype/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/clone/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/clone/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/normalprototype/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/normalprototype/MailUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/normalprototype/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/ContainerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/EnumInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/ThreadLocalInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/PointPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/PointsGift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/QualifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/ShoppingService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v1/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/HungrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/HungrySingleton.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,33 +44,85 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LazySingleton.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazySingleton.java">
+      <file leaf-file-name="Mail.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/prototype/normalprototype/Mail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LazyDoubleCheckSingleton.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazyDoubleCheckSingleton.java">
+      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/prototype/abstractprototype/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="38">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StaticInnerClassSingleton.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/StaticInnerClassSingleton.java">
+      <file leaf-file-name="Pig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/prototype/clone/Pig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/prototype/clone/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
               <folding>
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PointsGift.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/PointsGift.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QualifyService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/QualifyService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PointPaymentService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/PointPaymentService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShoppingService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/ShoppingService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -70,68 +130,17 @@
       <file leaf-file-name="HungrySingleton.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/HungrySingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/Test.java">
+      <file leaf-file-name="B.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/prototype/abstractprototype/B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObjectInputStream.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/io/ObjectInputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="411" column="24" selection-start-line="411" selection-start-column="24" selection-end-line="411" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileInputStream.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Course.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/builder/v2/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -158,18 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/estelle/test/ocp/Course.java" />
-        <option value="$PROJECT_DIR$/src/com/estelle/test/ocp/JavaCourse.java" />
-        <option value="$PROJECT_DIR$/src/com/estelle/test/ocp/JavaDiscountCourse.java" />
-        <option value="$PROJECT_DIR$/src/com/estelle/test/dip/ICourse.java" />
-        <option value="$PROJECT_DIR$/src/com/estelle/test/dip/JavaCourse.java" />
-        <option value="$PROJECT_DIR$/src/com/estelle/test/dip/FECourse.java" />
-        <option value="$PROJECT_DIR$/src/com/estelle/test/dip/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/estelle/test/ocp/ICourse.java" />
-        <option value="$PROJECT_DIR$/src/com/estelle/test/dip/PythonCourse.java" />
-        <option value="$PROJECT_DIR$/src/com/estelle/test/dip/Geely.java" />
-        <option value="$PROJECT_DIR$/src/com/estelle/test/srp/Bird.java" />
-        <option value="$PROJECT_DIR$/src/com/estelle/test/srp/Test.java" />
         <option value="$PROJECT_DIR$/src/com/estelle/principle/srp/Test.java" />
         <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/Video.java" />
         <option value="$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/JavaVideo.java" />
@@ -205,7 +202,22 @@
         <option value="$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazyDoubleCheckSingleton.java" />
         <option value="$PROJECT_DIR$/src/com/estelle/pattern/singleton/StaticInnerClassSingleton.java" />
         <option value="$PROJECT_DIR$/src/com/estelle/pattern/singleton/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/singleton/EnumInstance.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/singleton/ContainerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/singleton/ThreadLocalInstance.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/prototype/MailUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/prototype/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/prototype/Mail.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/prototype/normalprototype/Mail.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/prototype/abstractprototype/A.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/prototype/abstractprototype/B.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/prototype/clone/Pig.java" />
         <option value="$PROJECT_DIR$/src/com/estelle/pattern/singleton/HungrySingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/prototype/clone/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/PointsGift.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/QualifyService.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/PointPaymentService.java" />
+        <option value="$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/ShoppingService.java" />
       </list>
     </option>
   </component>
@@ -214,6 +226,15 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -233,7 +254,7 @@
     <OptionsSetting value="false" id="Update" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
       <showMembers ProjectPane="true" />
       <hideEmptyPackages ProjectPane="false" />
@@ -281,11 +302,16 @@
               <item name="estelle" type="1f31426a:PackageElementNode" />
               <item name="principle" type="1f31426a:PackageElementNode" />
             </path>
+            <path>
+              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -317,7 +343,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="estelle" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -325,8 +351,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="estelle" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="dip" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="structural" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -334,26 +360,39 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="estelle" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="structural" type="462c0819:PsiDirectoryNode" />
+              <item name="facaed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="Connection&#9;PSI&#9;JAVA://java.sql.Connection&#10;URLSt&#9;PSI&#9;JAVA://java.net.URLStreamHandlerFactory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -379,9 +418,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.estelle.pattern.prototype.clone.Test" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.estelle.pattern.prototype.clone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.estelle.principle.dip.Test" />
@@ -449,8 +499,13 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -471,7 +526,13 @@
       <workItem from="1550742220420" duration="391000" />
       <workItem from="1550742714649" duration="5231000" />
       <workItem from="1551065839459" duration="10092000" />
-      <workItem from="1551668057995" duration="7951000" />
+      <workItem from="1551668057995" duration="9363000" />
+      <workItem from="1551840873807" duration="4973000" />
+      <workItem from="1552011757321" duration="8213000" />
+      <workItem from="1552358053226" duration="5518000" />
+      <workItem from="1552529577976" duration="79000" />
+      <workItem from="1554112535565" duration="53000" />
+      <workItem from="1554112759364" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="依赖倒置原则">
       <created>1550742502875</created>
@@ -494,14 +555,22 @@
       <option name="project" value="LOCAL" />
       <updated>1551084708342</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="单例+序列化单例破坏">
+      <created>1551751733307</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551751733307</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27608000" />
+    <option name="totallyTimeSpent" value="47897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -511,12 +580,12 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3296582" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32967034" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32795697" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32745314" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32903227" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="right" id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49892473" visible="true" weight="0.26800978" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49892473" visible="true" weight="0.2863248" />
       <window_info anchor="right" id="Database" order="5" weight="0.32967034" />
       <window_info x="623" y="71" width="434" height="930" id="Structure" order="0" sideWeight="0.50107527" side_tool="true" type="WINDOWED" weight="0.26495728" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -524,9 +593,9 @@
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -542,201 +611,23 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="依赖倒置原则" />
     <MESSAGE value="工厂模式+建造者模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="工厂模式+建造者模式" />
+    <MESSAGE value="单例+序列化单例破坏" />
+    <option name="LAST_COMMIT_MESSAGE" value="单例+序列化单例破坏" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazySingleton.java</url>
+          <url>file://$PROJECT_DIR$/src/com/estelle/pattern/prototype/clone/Test.java</url>
           <line>18</line>
           <properties />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4864">
-          <caret line="312" column="22" selection-start-line="312" selection-start-column="22" selection-end-line="312" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/JavaVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/srp/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/srp/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/ocp/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/principle/ocp/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/simplefactory/VideoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/Video.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/JavaVideoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/PythonVideoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/VideoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/JavaVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/FEVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/factory/factorymethod/FEVideoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.estelle.pattern.factory.factorymethod">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.estelle.pattern.factory.factorymethod</OriginalElement>
-          <nodes>
-            <node x="131.0" y="232.0">com.estelle.pattern.factory.factorymethod.FEVideo</node>
-            <node x="164.0" y="79.0">com.estelle.pattern.factory.factorymethod.PythonVideoFactory</node>
-            <node x="138.5" y="153.0">com.estelle.pattern.factory.factorymethod.Video</node>
-            <node x="186.0" y="0.0">com.estelle.pattern.factory.factorymethod.VideoFactory</node>
-            <node x="357.0" y="79.0">com.estelle.pattern.factory.factorymethod.JavaVideoFactory</node>
-            <node x="249.0" y="232.0">com.estelle.pattern.factory.factorymethod.PythonVideo</node>
-            <node x="421.0" y="153.0">com.estelle.pattern.factory.factorymethod.Test</node>
-            <node x="0.0" y="79.0">com.estelle.pattern.factory.factorymethod.FEVideoFactory</node>
-            <node x="0.0" y="232.0">com.estelle.pattern.factory.factorymethod.JavaVideo</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.estelle.pattern.factory.factorymethod.JavaVideo" target="com.estelle.pattern.factory.factorymethod.Video">
-              <point x="0.0" y="-14.5" />
-              <point x="55.5" y="207.0" />
-              <point x="152.33333333333334" y="207.0" />
-              <point x="-27.666666666666657" y="14.5" />
-            </edge>
-            <edge source="com.estelle.pattern.factory.factorymethod.FEVideo" target="com.estelle.pattern.factory.factorymethod.Video">
-              <point x="0.0" y="-14.5" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.estelle.pattern.factory.factorymethod.JavaVideoFactory" target="com.estelle.pattern.factory.factorymethod.VideoFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="435.5" y="54.0" />
-              <point x="293.5" y="54.0" />
-              <point x="43.0" y="14.5" />
-            </edge>
-            <edge source="com.estelle.pattern.factory.factorymethod.PythonVideoFactory" target="com.estelle.pattern.factory.factorymethod.VideoFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.estelle.pattern.factory.factorymethod.FEVideoFactory" target="com.estelle.pattern.factory.factorymethod.VideoFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="72.0" y="54.0" />
-              <point x="207.5" y="54.0" />
-              <point x="-43.0" y="14.5" />
-            </edge>
-            <edge source="com.estelle.pattern.factory.factorymethod.PythonVideo" target="com.estelle.pattern.factory.factorymethod.Video">
-              <point x="0.0" y="-14.5" />
-              <point x="312.5" y="207.0" />
-              <point x="207.66666666666669" y="207.0" />
-              <point x="27.666666666666686" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-105.0" y="-68.0" />
-          <SelectedNodes>
-            <node>com.estelle.pattern.factory.factorymethod.Test</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="145" selection-start-line="145" selection-end-line="145" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -1014,10 +905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3971">
           <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1096,16 +983,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-          <folding>
-            <element signature="e#934#935#0" expanded="true" />
-            <element signature="e#965#966#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="1957">
           <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
         </state>
       </provider>
@@ -1114,16 +997,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="1862">
           <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
         </state>
       </provider>
@@ -1131,24 +1010,20 @@
     <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazyDoubleCheckSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/StaticInnerClassSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-          <folding>
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="190">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/io/ObjectInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
+        <state relative-caret-position="7809">
           <caret line="411" column="24" selection-start-line="411" selection-start-column="24" selection-end-line="411" selection-end-column="24" />
         </state>
       </provider>
@@ -1160,23 +1035,155 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/HungrySingleton.java">
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/EnumInstance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="342">
+          <caret line="24" selection-start-line="9" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/lib/tools.jar!/com/sun/tools/javac/util/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/ContainerSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/ThreadLocalInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/prototype/normalprototype/MailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/prototype/normalprototype/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/LazySingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        <state relative-caret-position="380">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="279" column="18" selection-start-line="279" selection-start-column="18" selection-end-line="279" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/prototype/clone/Pig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/prototype/abstractprototype/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/prototype/abstractprototype/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/prototype/normalprototype/Mail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/singleton/HungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/prototype/clone/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/PointsGift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/QualifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/PointPaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/ShoppingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -1209,6 +1216,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>org.apache.directory.studio:org.apache.commons.lang:2.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
