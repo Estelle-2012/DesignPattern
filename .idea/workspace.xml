@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd79ef35-7d74-448c-8f7d-31414685820c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/abstractprototype/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/abstractprototype/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/clone/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/clone/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/normalprototype/Mail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/normalprototype/MailUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/prototype/normalprototype/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/ContainerSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/EnumInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/ThreadLocalInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/PointPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/PointsGift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/QualifyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/ShoppingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/HungrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estelle/pattern/singleton/HungrySingleton.java" afterDir="false" />
-    </list>
+    <list default="true" id="bd79ef35-7d74-448c-8f7d-31414685820c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -121,8 +103,8 @@
       <file leaf-file-name="ShoppingService.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/ShoppingService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -532,7 +514,7 @@
       <workItem from="1552358053226" duration="5518000" />
       <workItem from="1552529577976" duration="79000" />
       <workItem from="1554112535565" duration="53000" />
-      <workItem from="1554112759364" duration="41000" />
+      <workItem from="1554112759364" duration="1156000" />
     </task>
     <task id="LOCAL-00001" summary="依赖倒置原则">
       <created>1550742502875</created>
@@ -562,15 +544,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551751733307</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="单例+序列化单例破坏">
+      <created>1554112817971</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554112817971</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47897000" />
+    <option name="totallyTimeSpent" value="49012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -965,7 +953,7 @@
           <Categories>
             <Category>Methods</Category>
             <Category>Properties</Category>
-            <Category>Inner Classes</Category>
+            <Category />
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
@@ -1068,6 +1056,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1182,8 +1173,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/estelle/pattern/structural/facaed/ShoppingService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
